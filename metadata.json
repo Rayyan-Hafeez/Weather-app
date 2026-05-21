@@ -1,0 +1,6 @@
+{
+  "name": "Weather Sky",
+  "description": "A beautifully styled weather application featuring live location searches, dynamic simulations of extreme weather metrics, interactive UV/AQI/wind cards, 7-day outlooks, and intelligent Gemini AI fashion and activity recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
